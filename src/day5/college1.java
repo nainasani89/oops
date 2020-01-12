@@ -41,7 +41,8 @@ public class college1 implements InterfaceDemo1 {
 	
 	public int totalMarks(int sMarks, int cMarks, int aMarks ) {
 		return aMarks;
-		
+	
+		// total of academicMarks + CulturalMarks + SportsMarks should be returned
 		
 	
 	}
